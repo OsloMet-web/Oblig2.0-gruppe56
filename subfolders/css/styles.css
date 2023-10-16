@@ -5,20 +5,32 @@
     color: black; 
    font-family: Arial;
   }
+
+
   .overskrift {
     font-size: x-large;
     color: antiquewhite;
   }
 
   .tekst {
- color: grey; 
+ color: black; 
  font-size: medium;
+ font-style: bold;
   }
     .image-caption {
         font-size: 16px;
         color: blanchedalmond;
     }
 
-
-   
+    .stil-for-side2 {
+      background-color: white;
+      color: black; 
+      font-family: Times New Roman; 
+    
+    }
+   .overskrift2 {
+    font-size: x-large; 
+    color: black; 
+    font-style: bold;
+   }
     
