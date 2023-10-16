@@ -1,10 +1,22 @@
 
-    body{
-        font-family: Arial, sans-serif;
-        background-color:pink; 
-    }
-    h1 {
-         color:antiquewhite; 
+  
+  .stil-for-siden {
+    background-color: pink;
+    color: black; 
+   font-family: Arial;
+  }
+  .overskrift {
+    font-size: x-large;
+    color: antiquewhite;
+  }
+
+  .tekst {
+ color: grey; 
+ font-size: medium;
+  }
+    .image-caption {
+        font-size: 16px;
+        color: blanchedalmond;
     }
 
 
