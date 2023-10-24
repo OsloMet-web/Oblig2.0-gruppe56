@@ -3,9 +3,17 @@
     color: black; 
     font-family: Arial;
     text-align: center;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    height: 300vh; 
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px;
   }
 
-.stil-for-side2{
+.style-for-page2{
   background-color: white;
   text-align: left;
   font-family: 'Times New Roman', Times, serif;
