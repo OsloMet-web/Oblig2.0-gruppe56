@@ -1,0 +1,34 @@
+.style-for-page1 {
+    background-color: white;
+    color: black; 
+   font-family: Arial;
+   text-align: center;
+  }
+
+
+.main-heading {
+    font-size: xx-large;
+    color:black;
+  }
+.sub-heading{
+    font-size: large;
+    color: black
+  }
+
+.text {
+ color: black; 
+ font-size: medium;
+ font-style: bold;
+ text-align: center;
+  }
+.image-caption {
+        font-size: 16px;
+        color: rgb(2, 2, 2);
+    }
+
+
+.overskrift2 {
+    font-size: x-large; 
+    color: black; 
+    font-style: bold;
+   }
